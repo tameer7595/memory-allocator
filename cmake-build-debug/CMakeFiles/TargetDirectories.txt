@@ -1,0 +1,3 @@
+/home/tameer/CLionProjects/allocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tameer/CLionProjects/allocator/cmake-build-debug/CMakeFiles/allocator.dir
+/home/tameer/CLionProjects/allocator/cmake-build-debug/CMakeFiles/edit_cache.dir

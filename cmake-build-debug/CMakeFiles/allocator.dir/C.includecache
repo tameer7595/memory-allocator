@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tameer/CLionProjects/allocator/Allocator.c
+Allocator.h
+/home/tameer/CLionProjects/allocator/Allocator.h
+stdlib.h
+-
+
+/home/tameer/CLionProjects/allocator/Allocator.h
+stdio.h
+-
+
+/home/tameer/CLionProjects/allocator/main.c
+stdio.h
+-
+stdlib.h
+/home/tameer/CLionProjects/allocator/stdlib.h
+Allocator.h
+/home/tameer/CLionProjects/allocator/Allocator.h
+

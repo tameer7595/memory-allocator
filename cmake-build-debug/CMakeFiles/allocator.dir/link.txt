@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/allocator.dir/main.c.o CMakeFiles/allocator.dir/Allocator.c.o  -o allocator 
